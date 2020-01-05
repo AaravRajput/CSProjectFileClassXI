@@ -1,0 +1,6 @@
+s1 = int(input('enter marks of sub1 '))
+s2 = int(input('enter marks of sub2 '))
+s3 = int(input('enter marks of sub3 '))
+s4 = int(input('enter marks of sub4 '))
+s5 = int(input('enter marks of sub5 '))
+print((s1+s2+s3+s4+s5)/5)
